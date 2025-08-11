@@ -1,5 +1,5 @@
 {
-  "name": "thumbnail-creator",
+  "name": "krish-thumbnail",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -8,16 +8,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "konva": "9.2.0",
-    "react-konva": "18.2.10"
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-konva": "18.2.7"
   },
   "devDependencies": {
-    "vite": "4.5.0",
-    "tailwindcss": "3.5.4",
-    "postcss": "8.4.23",
-    "autoprefixer": "10.4.14",
-    "@vitejs/plugin-react": "3.1.0"
+    "autoprefixer": "10.4.15",
+    "postcss": "8.4.31",
+    "tailwindcss": "3.3.3",
+    "vite": "4.4.9"
   }
 }
